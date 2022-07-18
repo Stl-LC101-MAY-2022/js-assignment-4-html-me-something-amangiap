@@ -27,10 +27,7 @@ body {
 footer {
     text-align: center
 }
-.funParagraph {
-    /* color: #282B20 again, ridiculous*/
-    color:green;
-}
+
 p {
     color:#282B20;
     text-indent: 3%;
@@ -44,3 +41,7 @@ h2 {
     margin-left:200px;
 }
 
+.funParagraph {
+    /* color: #282B20 again, ridiculous*/
+    color:green;
+}
