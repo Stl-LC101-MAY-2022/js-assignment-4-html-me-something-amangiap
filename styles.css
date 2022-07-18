@@ -1,1 +1,47 @@
 /* Write your CSS here! */
+
+
+body {
+    display:block;
+    margin: 8px;
+    background-color: #E2D1CC;
+    
+
+}
+#mainHeading {
+    /* color:#35070a; absolutely ridiculous that it has to be 'red', i really did enjoy how i had the page set up & i think some creativity should be allowed */
+   color: red;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#35070a;
+    font-size: large;
+}
+
+#caption {
+    color:#A09A96;
+    font-size: small;
+    margin-left: 200px;
+}
+
+footer {
+    text-align: center
+}
+
+p {
+    color:#282B20;
+    text-indent: 3%;
+    margin-left: 10px
+}
+h2 {
+    margin-left: 20px;
+    color: #42090d;
+}
+#redforest {
+    margin-left:200px;
+}
+
+.funParagraph {
+    /* color: #282B20 again, ridiculous*/
+    color:green;
+}
